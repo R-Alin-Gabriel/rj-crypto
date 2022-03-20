@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rj-crypto/static/css/main.a325f28a.css",
+    "main.js": "/rj-crypto/static/js/main.142a901a.js",
+    "index.html": "/rj-crypto/index.html",
+    "main.a325f28a.css.map": "/rj-crypto/static/css/main.a325f28a.css.map",
+    "main.142a901a.js.map": "/rj-crypto/static/js/main.142a901a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a325f28a.css",
+    "static/js/main.142a901a.js"
+  ]
+}
