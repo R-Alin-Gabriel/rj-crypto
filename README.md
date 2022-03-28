@@ -1,10 +1,8 @@
 
 ## Crypto App
 
-• Built a cryptocurrency Application that lists the top 100 cryptos in the market.
+• Built a cryptocurrency Application that lists the top 100 cryptos in the market. <br>
 • Includes a Search bar for filtering the data.
-
-
 
 
 # Getting Started with Create React App
